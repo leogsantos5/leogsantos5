@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @leogsantos5
-- 🌱 I’m currently learning PostgresSQL, Java, Python and C
-- 💞️ I’m looking to collaborate on Java, Python, SQL and C projects
-- 📫 How to reach me: just send an email or dm me on instagram @leogsantos5, I´m a cool guy ahah
+- 👋 Hi, I’m Leonardo
+- I’m a .NET Developer with a Bachelors Degree in Computer and Telecommunications Engineering at IST.
+- Outside the .NET environment, i also like to code mobile apps using Flutter.
 
 <!---
 leogsantos5/leogsantos5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
