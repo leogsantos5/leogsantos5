@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leonardo
-- I’m a .NET Developer. I studied Computer and Telecommunications Engineering at IST.
+- I’m a .NET Developer. I studied Computer and Telecommunications Engineering at Instituto Superior Técnico.
 
 <!---
 leogsantos5/leogsantos5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
