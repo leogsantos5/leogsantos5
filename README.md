@@ -3,7 +3,7 @@
 - Here, I display some of my best non-professional projects throughout my years of learning, being from online courses or just self-made personal projects. I like to work with the following technologies: 
 
   - Front End: HTML, CSS, Tailwind CSS, Bootstrap, Javascript, Typescript, Blazor, React, Next.JS
-  - Back End: C#, .NET 6-8, ASP.NET Web API, SQL Server, PosgtreSQL, EF Core, xUnit, CQRS & MediatR, DDD & Clean Architecture, Microservices
+  - Back End: C#, .NET 6-8, ASP.NET Web API, SQL Server, PosgtreSQL, EF Core, xUnit, CQRS & MediatR, DDD & Clean Architecture, Microservices, RabbitMQ
   - Developer Tools: Git, Docker, GitLab, Jira, Azure DevOps, Postman API, Visual Studio 2022, VS Code
 
 <!---
